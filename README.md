@@ -1,6 +1,6 @@
 # Hi, I'm Kuldeep Singh Arya 👋
 
-## Data Scientist | AI Enthusiast | Cloud Practitioner
+## Lead Data Scientist | AI Enthusiast | Cloud Practitioner
 
 Welcome to my GitHub profile! I am a passionate data scientist with hands-on experience in leveraging advanced Machine Learning, Deep Learning, and Natural Language Processing (NLP) techniques to solve real-world problems. My journey in tech is driven by curiosity, a love for data, and a commitment to continuous learning.
 
