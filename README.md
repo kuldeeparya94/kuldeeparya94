@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate data scientist with hands-on exp
 ### 🧑‍💻 About Me
 
 - **Current Role:** Data Scientist
-- **Expertise:** Python, Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLM), Prompt Engineering, Fine-tuning
+- **Expertise:** Python, Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLM), Prompt Engineering, Fine-tuning, MCP, AgenticAI, Langchain, Langgraph
 - **Cloud & AI Platforms:** AWS, Azure, OpenAI
 
 ---
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate data scientist with hands-on exp
 ### 🚀 Featured Project
 
 #### [Student Performance Analysis](#)
-A comprehensive analysis project focused on understanding and predicting student performance using data-driven techniques. The project leverages machine learning models to uncover key factors that impact academic success and provides actionable insights for educators and learners alike.
+A comprehensive analysis project focused on understanding and predicting student performance using data-driven techniques. The project leverages machine learning models to uncover key factors that impact academic success and provides actionable insights for educators and learners a like.
 
 ---
 
@@ -28,8 +28,9 @@ A comprehensive analysis project focused on understanding and predicting student
 - Deep Learning
 - NLP & Generative AI
 - LLMs & Prompt Engineering
-- Model Fine-tuning
-- AWS | Azure | OpenAI
+- Model Fine-tuning | RAG | 
+- AWS | Azure | OpenAI |AWS Bedrock |AzureOpenAI 
+- Agentic AI | MCP | Model Routing
 
 ---
 
@@ -37,8 +38,8 @@ A comprehensive analysis project focused on understanding and predicting student
 
 - Exploring advanced LLM applications and prompt engineering
 - Enhancing cloud-based AI solutions
-- Building end-to-end data science pipelines
-
+- Building Advanced RAG and MCP based AI Application. 
+- Building end-to-end data science pipelines.
 ---
 
 ### 📫 Connect with Me
