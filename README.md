@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate data scientist with hands-on exp
 ### 🧑‍💻 About Me
 
 - **Current Role:** Engineering Lead
-- **Expertise:** Python, Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLM), Prompt Engineering, Fine-tuning, MCP, AgenticAI, Langchain, Langgraph, Agent to Agent
+- **Expertise:** Python, Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLM), Prompt Engineering, Fine-tuning, MCP, AgenticAI, Langchain, Langgraph, Agent to Agent Communication
 - **Cloud & AI Platforms:** AWS, Azure, OpenAI
 
 ---
